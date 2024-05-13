@@ -1,4 +1,4 @@
 version: STSv1
 mode: none
-mx: *.mx.cloudflare.net
+mx: mail.kylig.com
 max_age: 600
